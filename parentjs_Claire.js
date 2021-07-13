@@ -48,7 +48,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/ep/qualtr
 			errorFBDuration : 1500, 
 			ITIDuration : 500,
 
-			//Set the image folder here.
+			//Set the image folder here
 			base_url : {
 				image : "https://baranan.github.io/minno-tasks/images/"
 			}
