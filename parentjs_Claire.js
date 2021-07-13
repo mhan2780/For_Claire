@@ -9,17 +9,17 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/ep/qualtr
 					name : 'Black people', //Will appear in the data.
 					//An array of all media objects for this category.
 					mediaArray : [
-    				        {word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
+    				        {word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
     					{word: 'Your very cool stimulus'}
 				    ]
 				}, 
@@ -27,17 +27,17 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/ep/qualtr
 					name : 'White people', //Will appear in the data.
 					//An array of all media objects for this category.
 					mediaArray : [
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'}
-    					{word: 'Your very cool stimulus'} 
-    					{word: 'Your very cool stimulus'} 
-    					{word: 'Your very cool stimulus'}  
-    					{word: 'Your very cool stimulus'} 
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'},
+    					{word: 'Your very cool stimulus'}, 
+    					{word: 'Your very cool stimulus'},
     					{word: 'Your very cool stimulus'} 
     				]
 				}
