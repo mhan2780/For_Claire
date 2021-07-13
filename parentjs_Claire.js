@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/mhan2780/For_Claire/blob/main/Claire.js'], function(APIConstructor, epExtension){
+define(['pipAPI', 'https://raw.githubusercontent.com/mhan2780/For_Claire/main/Claire.js?token=AM33WVJDOYIQHDAHHFN42SLA5UNWS'], function(APIConstructor, epExtension){
 	var API = new APIConstructor();
 	var global = API.getGlobal();
 	return epExtension(
