@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/ep/quep5.js'], function(APIConstructor, epExtension){
+define(['pipAPI', 'https://raw.githubusercontent.com/mhan2780/For_Claire/main/Claire.js'], function(APIConstructor, epExtension){
 	var API = new APIConstructor();
 	var global = API.getGlobal();
 	return epExtension(
