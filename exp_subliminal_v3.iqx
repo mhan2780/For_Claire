@@ -765,7 +765,7 @@ uses a pseudo prime
 <block practice>
 /trials = [
 	1 = instructions;
-	2 = getReady; 
+	2 = getReady;
 	3-11 = noreplace(practice_positive, practice_negative);
 	12 = instructions;
 ]
@@ -780,7 +780,7 @@ uses a pseudo prime
 	values.countblock += 1;
 ]
 /trials = [
-	1 = getReady; 
+	1 = getReady;
 	2-22 = noreplace(prime1_positive, prime1_negative);
 ]
 </block>
@@ -816,7 +816,7 @@ uses a pseudo prime
 	values.selectprime2 = 2;
 ]
 /blocks = [
-	1 = practice; 
+	1 = practice;
 	2 = SubliminalPriming;
 	3 = finish;
 ]
@@ -840,7 +840,7 @@ uses a pseudo prime
 	values.negLocation = "right";
 ]
 /blocks = [
-	1 = practice; 
+	1 = practice;
 	2 = SubliminalPriming;
 	3 = finish;
 ]
@@ -865,7 +865,7 @@ uses a pseudo prime
 	values.negLocation = "right";
 ]
 /blocks = [
-	1 = practice; 
+	1 = practice;
 	2 = SubliminalPriming;
 	3 = finish;
 ]
